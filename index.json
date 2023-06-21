@@ -1,7 +1,7 @@
 {
     "name": "Public Packages Releases",
     "author": "NekoSuneVR",
-    "url": "https://orels1.github.io/orels-vrc-packages/index.json",
+    "url": "https://raw.githubusercontent.com/NekoSuneVR/vrc-assets/main/index.json",
     "packages": {
         "sh.orels.camerablocker": {
             "versions": {
