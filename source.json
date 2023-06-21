@@ -1,15 +1,15 @@
 {
-    "name": "ArchiTech Assets",
-    "id": "dev.architech.listing",
+    "name": "Public Assets",
+    "id": "co.uk.nekosunevr.listing",
     "url": "https://vpm.techanon.dev/index.json",
     "author": {
         "email": "Need help? Click to join my discord server.",
-        "name": "ArchiTechAnon",
+        "name": "NekoSuneVR",
         "url": "https://discord.gg/w8ddMqjfJ2"
     },
-    "description": "Listing for all publicly distributed assets by ArchiTechAnon.",
+    "description": "Listing for all publicly distributed assets.",
     "infoLink": {
-        "url": "http://gitlab.com/techanon",
+        "url": "",
         "text": "Go to Repositories"
     },
     "bannerUrl": "",
